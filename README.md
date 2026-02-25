@@ -107,7 +107,7 @@ Follow these steps to set up **GlucoPredictor** on your local machine:
 
 3. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/GlucoPredictor.git
+   git clone https://github.com/yourusername/glucopredictor.git
     ```
    
 
