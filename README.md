@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat)
 
-> A web-based diabetes risk assessment and data entry system designed to help users evaluate and monitor their potential risk for diabetes — providing personalized rule and AI-based health tips using a trained XGBoost model.
+> A diabetes risk assessment and data entry system web application designed to help users evaluate and monitor their potential risk for diabetes — providing personalized rule and AI-based health tips using a trained XGBoost model.
 
 ---
 
